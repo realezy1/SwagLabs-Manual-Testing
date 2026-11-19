@@ -92,8 +92,10 @@ Test cases and execution activities were managed and documented using Jira and s
 
 ### Test Case Documentation
 
-- **Jira Board:** [Insert Jira Link]
-- **Test Case Documentation:** [Insert Excel / Google Sheets Link]
+- **Jira Board:**
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/0b18f49e-5c37-4d74-a3a5-8cd7b61ee895" />
+
+- **Test Case Documentation:** (https://drive.google.com/drive/folders/1qI0S5c0XdPy2XOKgLALE1vmAhV8sgoM7?usp=sharing)
 
 ## 7. Test Execution Summary
 
