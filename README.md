@@ -91,10 +91,6 @@ Test cases include:
 Test cases and execution activities were managed and documented using Jira and supporting spreadsheet documentation.
 
 ### Test Case Documentation
-
-- **Jira Board:**
-<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/0b18f49e-5c37-4d74-a3a5-8cd7b61ee895" />
-
 - **Test Case Documentation:** (https://drive.google.com/drive/folders/1qI0S5c0XdPy2XOKgLALE1vmAhV8sgoM7?usp=sharing)
 
 ## 7. Test Execution Summary
@@ -130,17 +126,23 @@ Pass Rate = (23 / 23) × 100% = **100%**
 
 ## 8. Test Execution Evidence
 
-The following evidence is provided to demonstrate the test case management and actual execution process.
-
 ### 8.1 Jira Evidence
-
-Screenshots of Jira showing test case documentation, test execution status, and testing activities.
+<img width="1917" height="966" alt="image" src="https://github.com/user-attachments/assets/0b18f49e-5c37-4d74-a3a5-8cd7b61ee895" />
 
 **Jira Screenshots:**
+- <img width="1596" height="816" alt="image" src="https://github.com/user-attachments/assets/e5933196-c304-44c1-9044-770942dd1510" />
 
-- [Insert Jira Screenshot 1]
-- [Insert Jira Screenshot 2]
-- [Insert Jira Screenshot 3]
+- <img width="1593" height="820" alt="image" src="https://github.com/user-attachments/assets/d666a045-c1be-481b-a2ea-48ffa0242254" />
+
+- <img width="1596" height="817" alt="image" src="https://github.com/user-attachments/assets/2d63af44-1c52-4c32-8f4e-c368aa325d54" />
+
+- <img width="1592" height="808" alt="image" src="https://github.com/user-attachments/assets/38150450-4d55-45ee-bbf0-b10be221fc58" />
+
+- <img width="1601" height="815" alt="image" src="https://github.com/user-attachments/assets/67004b9f-b4e2-4734-990a-1b69e892d57a" />
+
+- <img width="1600" height="812" alt="image" src="https://github.com/user-attachments/assets/260c1d38-3ba2-459a-8bc3-c6005dfe6fdc" />
+
+- <img width="1602" height="816" alt="image" src="https://github.com/user-attachments/assets/1723e8ae-5fee-4c9e-bfd2-d8f8f0fbf0e7" />
 
 ### 8.2 Application Testing Evidence
 
@@ -148,13 +150,13 @@ Screenshots showing the actual application behavior during test execution.
 
 | Module | Evidence |
 |---|---|
-| Login | [Insert Screenshot / Link] |
-| Sidebar / Navigation | [Insert Screenshot / Link] |
-| Products | [Insert Screenshot / Link] |
-| Product Sorting | [Insert Screenshot / Link] |
-| Shopping Cart | [Insert Screenshot / Link] |
-| Checkout | [Insert Screenshot / Link] |
-| Logout | [Insert Screenshot / Link] |
+| Login | https://drive.google.com/drive/folders/1qI0S5c0XdPy2XOKgLALE1vmAhV8sgoM7?usp=drive_link |
+| Sidebar / Navigation | https://drive.google.com/drive/folders/1qI0S5c0XdPy2XOKgLALE1vmAhV8sgoM7?usp=drive_link |
+| Products | https://drive.google.com/drive/folders/1qI0S5c0XdPy2XOKgLALE1vmAhV8sgoM7?usp=drive_link |
+| Product Sorting | https://drive.google.com/drive/folders/1qI0S5c0XdPy2XOKgLALE1vmAhV8sgoM7?usp=drive_link |
+| Shopping Cart | https://drive.google.com/drive/folders/1qI0S5c0XdPy2XOKgLALE1vmAhV8sgoM7?usp=drive_link |
+| Checkout | https://drive.google.com/drive/folders/1qI0S5c0XdPy2XOKgLALE1vmAhV8sgoM7?usp=drive_link |
+| Logout | https://drive.google.com/drive/folders/1qI0S5c0XdPy2XOKgLALE1vmAhV8sgoM7?usp=drive_link |
 
 ## 9. Test Report
 
